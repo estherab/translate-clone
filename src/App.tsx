@@ -40,7 +40,7 @@ function App() {
   return (
     <>
       <Container fluid>
-        <h2>Google Translate</h2>
+        <h2>Google Translate Clone</h2>
 
         <Row>
           <Col>
